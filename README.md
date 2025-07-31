@@ -69,11 +69,12 @@
 ---
 
 ### 📚 Currently Learning
-•⁠  ⁠Advanced Cybersecurity (SOC, Web Exploits, Bug Bounty)
-•⁠  ⁠Building AI tools with OpenAI + LangChain + FastAPI
-•⁠  ⁠SaaS Product Dev (MERN + UI/UX + Stripe)
+
 -  Bug bounty & web exploits on TryHackMe   
--  Scaling a remote dev career + internships  
+-  Scaling a remote dev career + internships
+-  ⁠Advanced Cybersecurity (SOC, Web Exploits, Bug Bounty)
+-  ⁠Building AI tools with OpenAI + LangChain + FastAPI
+-  ⁠SaaS Product Dev (MERN + UI/UX + Stripe)
   
 
 ---
